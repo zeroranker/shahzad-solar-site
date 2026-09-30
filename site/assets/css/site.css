@@ -169,6 +169,38 @@ p:last-child { margin-bottom: 0; }
 .section--tight { padding-block: clamp(var(--s-7), 5vw, var(--s-8)); }
 .section--ink { background: var(--ink); color: var(--on-ink); }
 .section--ink h1,.section--ink h2,.section--ink h3 { color: var(--paper); }
+
+/* Text tokens are light-theme values: --text-2 and --text-3 are mid-greys
+   chosen to sit on paper. Anywhere they are inherited inside an ink section
+   they collapse — measured at 2.42:1, 2.47:1, 3.12:1 and 3.6:1, all under the
+   4.5 AA threshold. The stylesheet was correct everywhere else; the fault is
+   only ever the pairing, which is why qa/check-contrast.py (token against
+   token) never saw it and qa/check-painted-contrast.py (render and measure)
+   finds every instance at once. Remap the tokens to their on-ink equivalents
+   for the whole ink subtree. */
+.section--ink .eyebrow,
+.section--ink .hero__lede,
+.section--ink .sec-lede,
+.section--ink .hero__meta,
+.section--ink figcaption,
+.section--ink caption,
+.section--ink th,
+.section--ink td,
+.section--ink .quote figcaption,
+.section--ink .quote footer,
+.section--ink .quote footer b,
+.section--ink .project__cap,
+.section--ink .project__cap .n,
+.section--ink .project__body p,
+.section--ink .fact__k { color: var(--on-ink-2); }
+
+.section--ink .quote figcaption strong,
+.section--ink .quote footer b { color: var(--on-ink); }
+
+.section--ink .step p,
+.section--ink .card p,
+.section--ink .prose p,
+.section--ink .source { color: var(--on-ink-2); }
 .section--paper2 { background: var(--paper-2); }
 .section--rule { border-top: 1px solid var(--rule); }
 
@@ -312,6 +344,15 @@ html[lang="ur"] .brand__name { font-family: var(--urdu-disp); font-size: 1.15rem
 .btn--ink:hover { background: var(--ink-3); }
 .btn--ghost { background: transparent; color: var(--text); border-color: var(--rule); }
 .btn--ghost:hover { border-color: var(--text-3); background: var(--paper-2); }
+/* A ghost button carries the light-theme text colour, which disappears on an
+   ink background. Measured on the Urdu hero's secondary call to action at
+   1.07:1 — near-black on near-black, so the button was present but effectively
+   invisible. qa/check-contrast.py reads the stylesheet and could not see this,
+   because the fault is the pairing of a light-theme component with a dark
+   section, not either colour on its own. qa/check-hero-buttons.py paints the
+   page and measures, and found it. */
+.section--ink .btn--ghost { color: var(--on-ink); border-color: var(--rule-dark); }
+.section--ink .btn--ghost:hover { background: var(--ink-2); border-color: var(--on-ink-2); }
 /* WhatsApp green, darkened. The brand green (#1FA855) only reached 3.09:1
    against white, and this button is the primary call to action on every page
    including the sticky mobile bar. These two values clear 4.5:1. */
@@ -361,8 +402,13 @@ a.card:hover, .card--link:hover { border-color: var(--sun); transform: translate
 
 /* ------------------------------------------------------------------ hero */
 .hero { position: relative; padding-block: clamp(var(--s-8), 8vw, var(--s-10)) var(--s-8); overflow: hidden; }
+/* align-items was 'center', which vertically centred the copy column inside a
+   row sized by the Solar Day panel — roughly 1,750px tall. That pushed the
+   headline below the fold at tablet widths and left a band of dead space above
+   it. 'start' puts the copy at the top of the row, where the eye arrives
+   first, and leaves the slack at the bottom where it is least noticeable. */
 .hero__grid {
-  display: grid; gap: var(--s-7); align-items: center;
+  display: grid; gap: var(--s-7); align-items: start;
   grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr);
 }
 @media (max-width: 940px) { .hero__grid { grid-template-columns: 1fr; gap: var(--s-6); } }
@@ -737,9 +783,12 @@ body { padding-bottom: 0; }
 @media (max-width: 900px) { .footer-grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 560px) { .footer-grid { grid-template-columns: 1fr; } }
 .footer-grid ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+/* --text-3 here was a light-theme mid-grey, correct on paper and 3.6:1 on the
+   dark footer — below the 4.5 AA threshold for the 12.8px it renders at, on
+   every page of the site. --on-ink-2 is the footer's own mid-tone. */
 .footer-bottom { border-top: 1px solid var(--rule-dark); padding-top: var(--s-5);
   display: flex; flex-wrap: wrap; gap: var(--s-4); justify-content: space-between;
-  font-size: .8rem; color: var(--text-3); }
+  font-size: .8rem; color: var(--on-ink-2); }
 .footer-bottom a { color: var(--on-ink-2); }
 
 /* -------------------------------------------------------------- misc2 */
