@@ -12,6 +12,24 @@
 (function () {
   'use strict';
 
+  /* ------------------------------------------- 0. release the web fonts
+     The Google Fonts link ships with media="print" so it never blocks the
+     first paint; something then flips it to media="all" to actually fetch the
+     fonts. That used to be an inline onload="this.media='all'" attribute,
+     which is an inline event handler and is therefore covered by script-src.
+     A strict CSP silently blocked it: the link stayed media="print", the
+     fonts never loaded, and the site lost its typographic identity in
+     production while looking fine on a dev server that sends no policy.
+
+     This script is deferred, so it runs after the document is parsed but
+     before DOMContentLoaded — earlier than the load event the old handler
+     waited for. The <noscript> block in the markup still carries a plain
+     stylesheet link for readers without JavaScript. */
+  Array.prototype.forEach.call(
+    document.querySelectorAll('link[rel="stylesheet"][media="print"]'),
+    function (l) { l.media = 'all'; }
+  );
+
   /* ------------------------------------------------ 1. nav + language */
   var nav = document.querySelector('[data-nav]');
   var navBtn = document.querySelector('[data-nav-toggle]');
