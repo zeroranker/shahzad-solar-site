@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shahzadsolar.pk/sitemap.xml
+Sitemap: https://shahzad-solar-site.vercel.app/sitemap.xml
