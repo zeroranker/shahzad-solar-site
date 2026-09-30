@@ -275,9 +275,15 @@
     }
 
     function bind(name) {
-      lab.querySelectorAll('[data-seg="' + name + '"] button').forEach(function (b) {
+      /* The selector used to be '[data-seg="<name>"] button', which assumed
+         data-seg sat on a wrapper and the buttons sat inside it. The markup
+         puts data-seg on each button itself, so that selector matched nothing
+         and every profile button was dead — the tool still computed on load,
+         so the numbers looked alive and only a real click revealed it.
+         Caught by qa/check-buttons.py, which clicks them. */
+      lab.querySelectorAll('[data-seg="' + name + '"]').forEach(function (b) {
         b.addEventListener('click', function () {
-          lab.querySelectorAll('[data-seg="' + name + '"] button').forEach(function (o) {
+          lab.querySelectorAll('[data-seg="' + name + '"]').forEach(function (o) {
             o.setAttribute('aria-pressed', String(o === b));
           });
           state[name] = b.dataset.val;
