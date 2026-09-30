@@ -1,0 +1,19 @@
+# The gazettes and AEDB registers are the evidence base for every regulatory
+# claim on the site. Keep the binaries intact and un-diffable, but let Git
+# read the extracted text as UTF-8 so greps on regulation numbers work.
+
+*.pdf    binary
+*.jpg    binary
+*.png    binary
+*.webp   binary
+
+*.txt    text eol=lf
+*.md     text eol=lf
+*.html   text eol=lf
+*.css    text eol=lf
+*.js     text eol=lf
+*.py     text eol=lf
+*.json   text eol=lf
+*.xml    text eol=lf
+*.svg    text eol=lf
+*.webmanifest text eol=lf

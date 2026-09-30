@@ -1,0 +1,508 @@
+NATIONAL ELECTRIC POWER REGULATORY AUTHORITY 
+(PROSUMER) REGULATIONS, 2026 
+NOTIFICATION 
+Islarnabad, 9th  day of February, 2026 
+S.R,O S1 In exercise of the powers confçrred by section 47 read with section 7(1) of the 
+Regulation of Generation, Transmission and I)istribution of Electric Power Act, 1997 (XL of 1997), 
+the National Electric Power Regulatory Authority, is pleased to make the following regulations, 
+namely:- 
+I. Short title, cornrnecement. — (1) These Regulations may be called the National Electric Power 
+Regulatory Authority (Prositmer) Regulations, 2026. 
+(2) They shall come into force at once. 
+2. Definitions.— (1) In these regulations unless there is anything repugnant in the subject or context,— 
+(i) "Act" means the Regulation of Generation, Transmission and Distribution of Electric Power Act, 
+1997 (XL of 1997); 
+(ii) 'agreeiñent" means the agreement between the licensee and the prosumer on the Authority's 
+approved format as per Schedule-I; 
+(iii) "applicable documents" means the rules and regulation, terms and conditions of any licence, 
+registration, concurrence, authorization, determination, any code, manuals, directions, guidelines, 
+orders, notifications, agreements or documents issued or approved under the Act; 
+(iv) "applicable tariff' means the, tariff determined by the Authority and duly notified in the official 
+Gazette; 
+(v) "applicant" means a 3 phase 400V or 1 1kV domestic, commercial, industrial, agricultural, general 
+services consumer or a single point bulk supply consumer o'f a licensee, which submits an 
+application to interconnect its proposed distributed generation facility to the distribution system of 
+the licensee and who 'applies for the accord of concurrence to operate a distributed generation 
+facility as a prosumei;' 
+(vi) "application" means the application submitted by an applicant to licensee, for interconhection of a 
+distributed generation' facility to th 'distribution system of a licensee and includes application for 
+the accord of concurreflcd to the Authority; 
+(vii) "Authority" means the National Electric Power Regulatory Authority established under the Act; 
+(viii) "billing cycle" means energy recorded by the meters in a period of thirty days; 
+(ix) "distributed generation facility" or "DG facility" means a flicility set, up by a prosumer using solar, 
+wind or biogas energy resource for generation of electricity up to 1 MW; 
+(x) "distributed generation" means electrical power generation by solar, wind or biogas that is 
+intercOnnected to the distribution system of the licensee at interconnection point; 
+(xi) "distribution ystem" means the distribution facilities situated within the service territory owned or 
+operated by the licensee'Tor distribution of electric power including, without limitation, electric 
+lines or circuits, eletiic plant, meteis, mteiconnection facilities oi othet facilities operating at thc 
+distribution voltage, and shall also include any other electric lines, circuits, transformers, sub-
+stations, electric plant, interconnection facilities or other facilities determined by the Authority as 
+forming part of the distribution, system, whether or not Operating at the distribution voltage; 
+(xii) "fault" means an equipment failure, conductor failure, short circuit, or other condition resulting 
+from abnormally high or low amounts of current from the power system; 
+(xiii) "interconnection facilities" means the equipment, including, without limitation, electrical lines or 
+circuits, transformers, switch gear, safety and protective devices, meters or electrical plant, used 
+for interconnection services; 
+(xiv) "interconnection point" means the point where the metering, installation and protection apparatus 
+of the distributed generator is connected to the distribution system of the licensee; 
+(xv) "kWh" means kilowatt hour; 
+(xvi) "licensee" shall mean an entity holding a distribution license and a supplier license under the Act; 
+(xvii) "MW" means megawatt; 
+(xviii) "prosuiner" means an àppliant who has entered into an agreement with licensee for distributed 
+generation. 
+2) The words and expressions used but not defined in these regulations shall have the same meaning as 
+are assigned to them in the Act. 
+APPLICATION AND INTERCONNECTION PROCESS 
+3. Application process forinterconnecting distributed generation facility.— (1) Subject tO sub-
+regulation (2), any applicant who meets the requirements of these regulations shall be eligible for 
+submitting an application to a licensee as specified in Schedule-IT: 
+Provided that the licensee shall be bound to provide information and Authority's approved 
+documents in response to the request from applicant free of cost within two working days. 
+(2) The capacity of a proposed distributed generation facility shall not exceed the sanctioned load of 
+the applicant's premisbs: 
+Provided that the Authority may revise the capacity of proposed distributed generation facility 
+at any time through a notificatiOn. . 
+(3) An applicant proposing tO install a distributed generation facility with an installed capacity of 250 
+kW or above shall be obligated to conduct and submit a load flow study carried out through the licengee 
+or any reputable áonsultant registered with Pakistan Engineering Council. 
+(4) Application, along with necessary documents, shall be submitted by applicant to licensee. 
+(5) Within five working days of receiving an application, the licensee shall acknowledge its redeipt and 
+inform the applicant whether 'the application is complete in all respect: 
+Provided that in case of any missing information or documents, the applicant shall provide the 
+same to licensee within three working days of being informed by licensee. 
+Provided further that the licensee shall not entertain any application if the distributed generation 
+capacity connected to a particular distribution transformer has reached 80% of its rated capacity. 
+(6) Upon being satisfied that the application is complete in all respects, the licensee shall perform an 
+initial review to determine whether the applicant qualifies for interconnection facility, or may qualify 
+subject to additional requirements: 
+Provided that the initial review shall be completed within fifteen working days. 
+(7) In case the initial review reveals that the proposed facility is not technically feasible, the licensee 
+shall return the application and communicate the reasons to the applicant within three working days 
+after the completion of initial review. 
+(8) If the licensee is satisfied that the applicant fulfills all the requirements of these regulations, then 
+the licensee and the applicant shall enter into an agreement within seven working days and licensee 
+shall send a copy of the agreement to the Authority within seven working days of the signing of the 
+agreement. 
+(9) Within seven working days• of execution of the agreement, the licensee shall issue the connection 
+charge estimate to the prosumer for the proposed interconnection facility up to the interconnection point 
+including the metering installation. 
+(10) The prosumer shall make the payment of conhection charge estimate within seven wofldng days 
+of its issuance. 
+(11) The licensee shall install and commission the proposed interconnection facility within fifteen 
+working days of the payment of demand notice by the prosunier: 
+Provided that the billing arrangement shall commence upon ccord of concurrence to the 
+prosumer in accordance with regulation 4. 
+4. Concurrence. --- (1) Notwithstanding anything contained in the applibable documents, aprostimer 
+shall seek concurrence of the Authority in acordance with sub-regulation (2): 
+Provided that the prosumer shall be required to obtain a fresh concurrence from the Authority prior 
+to any modification in the technical parameters of the distributed generation facility. 
+(2) Licensee shall forward the application for accord of concurrence to the Authority as specified in 
+Schedule-Ill along with following: 
+(a) agreement; 
+(b) evidence of deposit of fee as may be specified by the Authority in Schedule-IV; and 
+(c) an affidavit by prosumer as specified in Schedule-V. 
+(3) The Authority may, on receipt of the application and the documents specified in sub-regulation (2), 
+acc&d concurrence to the prosumr withiii seven working days after receipt of requisite documents. 
+(4) In case the prosumer fails to commence distributed generation within six months of grant of 
+concurrence, it shall be required to obtain fresh concurrence. 
+5. General powers, rights and obligations of the licensee.— (1) A licensee shall, 
+(a) allow any of its consumers to establish distributed generation facilities to be interconnected with 
+its distribution system using either (i) a standard meter capable of registering the flow of 
+electricity in two directions, or (ii) two separate meters one for selling electricity to the licensee 
+and other for purchasing electricity from the licensee; 
+(b) enter into an agreement with the applicant, and shall grant interconnection approval in accordance 
+with these regulations: 
+Provided that the approval of interconnection facility shall not be unreasonably 
+withheld; 
+(c) have the right to review the design of a distributed generation facility and interconnection 
+facilities and to inspect the same prior to the commencement of parallel operation with its 
+distribution system and may require the prosumer to make modifications as necessary to comply 
+vith the requirements of these regulations; and 
+(d) the licensee shall introduce necessary validation checks to monitor the unlawful extension of the 
+distribution generation facility. 
+(2) A licensee may limit the operation and/or disconnect or require the disconnection of a distributed 
+generation facility fiom its distribution system at any time, with oi without notice, in the event of fault 
+(3) A licensee may also limit the operation and/or disconnect or require the disconnection of distributed 
+generation facility from its distribution system upon the provision of thirty days written notice for the 
+conditiOns which include a f011ows: 
+(a) to allow for routine tnaintenance, repairs or modifications to the distribution system o .f the 
+licensee; 
+(b) upon licensee's deterniination that distributed generation facility is not in compliance with these 
+regulations; and 
+(c) upon termination of the agreement or expiry of the term of the agreement. 
+6. Rights and obligations of the prosumer. (1) A prosurner shall operate and maintain its distributed 
+generation facility and interconnection thcilities in accordance with prudent electrical practices. 
+(2) The prosumer shall not have any right to utilize licensee's interconnection facilities for the sale of 
+electricity to any other person. 
+TERM OF AGREEMENT, TERMINATION OF AGREEMENT AND DISPUTE 
+RESOLUTION 
+7. Term of agreement and conditions.— (I) The tenn of the agreement between prosumer and 
+licensee shall be five years with effect from date of commissioning of ditributed generation facility. 
+(2) At the expiry of the initial term, the agreement may be renewed between the prosumer and the 
+licensee for another term Of five years and so on with mutual consent of the licensee and prosumer. 
+8. Termination of agreement.— (1) The prosumer may terminate the agreement 
+wiitten notice if it decides to discontinue the sale of clectricity to the licensee 
+4b 
+(2) The licensee mayterininate the agreement upon thirty days written iotice subject to prior approval 
+of the Authority. 
+(3) All rights and obligations accrued up to termination shall continue in force upon termination. 
+DISTRIBUTED GENERATION FACILiTY DESIGN AND OPERATING REQUIREMENTS 
+9. Protection requirements.--- (1) The protection and control diagrams for the interconnection of the 
+prosurner shall be in accordance with the provisions of the applicable documents and approved by the 
+licensee prior to commissioning of the proposed interconnection facilities. 
+-(2) The. prosumer shall be responsible for the installation of equipment, including, without limitation, 
+electrical lines or circuits, transfoliners, switch gear, safety and protective devices, meters ôi electricl 
+plant; tO be used for interconnection: 
+Provided that, if the rosumer is unable to install equipment, including, without limitation, 
+electrical lines or circuits, transformers, switch gear, safety and protective devices, meters or electrical 
+plant, used for interconnection, the licensee may execute the requisite work in case the prosumer offers 
+td ddpositthe cost to be inëdrred bn the requisite work at mutually ag1eed teriñs. - 
+(3) The protective functions shall be equipped with automatic means to prevent reconnectioi of the 
+distributed generation facility with the distribution facilities of the licensee: 
+PrOvided that the service voltage and frequency is of specified setting and is stable and mu.tuaiy 
+agreed between the licensee a-nd th prosumcr. 
+(4) The prosurner will furnish and install a manual disconnect device tha,t has a visual break to isolate 
+the distributd. generation facility from the distribution facilities. - - 
+(5) The grid connected inverlers and generators shall comply with Underwriter Laboiatoues UL 1741 
+stanuard (Inverteis, Converteis, Controlleis and Inteiconnection System Equipment for Use with 
+Distributed Energy Resources) which addresses the electrical intercOnnectiOn design of various forms 
+of generating equipment in accordance with all applicable international standards as may be notified by 
+the Authority from time to time..- 
+10 Prevention of interfei en e — (1) '1 he prosurner shall not operate such equipment that 
+superimposes upon the distribution system a voltage om current that mteiferes with hcense&s ouerations, 
+service to its consumeis, or communication facilities 
+(2) in th.e -eve-nt of such interference; the prosumer. must diligently pursue and take -correctiveaction at 
+its own expense after. hei.ng. given notice and reasonable time-to do so by the licensee. 
+(3) On account of any failure on part of the pios imem to take timely comm ectivc action, the licensee Iray, 
+without liability, disconnect the distiibution genemation facility fiom the distribution system, in 
+accthdance vith these ieguthrions; -- - - 
+11-. Voltage andfrequency rânge. —A variation of ±5% and±l% is permissible to the.nominal voltage 
+and frequency respectively. 
+- .- INTERCONNECTION FACILITY FINANCING -. 
+12. Responsibility for costs of interconnecting a distributed generation facility.-- (1) Prosum 
+shall be responsible- for all -costs associated with interconnebtion faciliti tip to the interor4r 
+point including meteling instaliation 
+(2) The prosumer shall also be responsible foi any costs reasonably incuired by licensee in providing, 
+operating, or maintaining interconnection facilities and distribution system improvements required 
+solely for the interconnection of the distributed generation facility with licensee's distribution system. 
+(3) In case of non-availability of meter(s) with licensee, the prosumer may procure such meter(s) 
+directly subject to testing by licensee, before installation. 
+METERING AND BILLING 
+13. Metering requirements.---- (1) The equipment installed for metering shall be capable of accurately 
+measuring the flow of electricity in two directions: 
+Provided that in case two sparate meters are installed, the energy metering calculation shall 
+yield the same result as when a single meter is used. 
+(2) The interconnection facility including meter, shall meet all safety and protection requirements that 
+are necessary to assure safe and reliable operation of the distributed generation facility when connected 
+to the distribution system of the licëhsee and that have been approved by the Authority. 
+(3) The meter reading shall be carried out preferably through hand held units (HHU) and through 
+automated means as directed by the Authority from time to time. 
+14. Billing.— (1) A the end of each billing cycle, following the date of intercOnnection of distributed 
+generation facility to its distribution system, the licensee shall raise its bill after taking into account the 
+electricity generated and consumed by the prosumer under a net billing arrangement as follows: 
+(a) the kWh supplied by licensee to prosumer, shall be billed in accordance with the applicable 
+tariff. 
+(b) the kWhsupplied by prosumer to the licensee, shall be billed in accordance with the national 
+average energy purchase price. 
+Explanation: "net billing aiTangement" means an arrangement under which electricity generated by 
+distributed generation facility of prosumer is purchased by the licensee and the licensee raises the bill 
+on the prosumer for his consumption at the applicable tariff', after giving credit for electricity supplied 
+by prosumer to the licensee at the national average enurgy pui chase pi ice 
+(2) In case the billed amount of the kWh supplied by prosumer exceeds the billed amount of kWh 
+supplied by licensee, the net billed amount shall be credited against prosumer's next billing cycle or 
+shall be paid by the licensee to the prosurner quarterly. 
+(3) The Authority may revise the rate provided in sub-regulation (1) through the notification during the 
+subsistence.of the agreement and the rate so revised shall be deemed incorporated in the agreement. 
+15. Power of the Authority to give directions, instructions and guidelines.— (1) For carrying out 
+the pui-poses of these regulatiois, the Authority may issue directions, instructions and guidelines to the 
+prosumer and the liCenee, in the form and manner deterniined by the Authority, which shall be 
+complied with by the prosumer and the licensee. 
+(2) The Authority may, on representation made to it or on its own motion modify or cancel any direction, 
+instruction oi guidelines issued undei sub-iegulation (1) and in so rrodifymg 01 cance 
+direction, instruction or guidelines may impose such conditioiis as it deems fit. 
+16. Power to require information.—The Authority may, at any time, by notice in writing require any 
+director and officer of the licensee and/or the piosumer, genei ally or in particular to furnish it within 
+the time specified therein oi such further time as the Authoiity may allow, with any statement or 
+information and without prejudice to the generality of the foregoing power, may call for information, 
+at such intervals as the Authority may deem fit. 
+17. Resolution of disputes.— Any dispute or disagreement between prosumer and licensee relating to 
+any matter arising out of, or in connection with, the activities covered under the regulations shall be 
+submitted for decision to the Authority. 
+18. Penalty for failure, refusal to comply with, or contravention with any provision of the 
+regulations.— If any person fails or refuses to comply with, or contravenes any of the provisions of 
+these regulations or any direction or order passed by the Authority under these regulations or knowingly 
+or wilfully authorizes or permit such failure, refusal or contravention, he shall be punishable with a 
+penalty as provided in the Act. 
+19. Power to relax. —The Authority may by general or special order, for reasons to be recorded in 
+writing, after giving an opportunity of hearing to the persons likely to be affected, may relax any of the 
+provisions of these regulations on its on motion or on an application made before it by an interested 
+persOn. 
+20. Power to remove difficulty.— If any difficulty arises in giving effect to the provisions of these 
+regulations, the Authority may, by general or specific order, make such provisions as may appear to be 
+necessary for removing the difficulty. 
+21. Savings and Repeal.— (1) The National Electric Power Regulatory Authority (Alternative & 
+Renewable Energy) Distributed Generation and Net Meteiing Regulations, 2015 shall stand repealed 
+upon coming into force of these regulations. 
+(2) Notwithstanding the repeal effected by these regulations, nothing shall affect or be deemed to affect, 
+the licences issued and agreements executed undem the mepealed iegulations before commencement of 
+these regulations except the billing shall be in accordance with regulation 14 commencing from the 
+billing cycle subsequent to the month in which these regulations come into effect: 
+Provided that the distiibuted geneiatois having valid agreements executed under the repealed 
+regulations, shall be billed in accordance with the national average power purchase price till the expiry 
+of the term of their agreement and thereafter shall be billed in accordance with the national average 
+energy purchase price for all future renewals. 
+(3) Upon expiry of the term of the  agreement executed under the repealed regulations, any extension in 
+the agreétheht shall be in accordance with these regulations and the arrangement will be brought in 
+cdnformity with these regulations. 
+Explanation: For the purpose tf this regulation the term "distributed generator" includes any person 
+undertaking distributed generation under the repealed regulations. 
+iJl r  
+j6'i 
+(Syed Zawar Haider) 
+Director 
+Schedule-I 
+[See Regulation 2(1)(b)] 
+Distributed Generation Interconnection Agreement (1 kW to 1MW)  
+The Distributed Generation Interconnection Agreement (the Agreement"), is made and entered in to 
+this  (day) of  (month),  (year) by and between 
+ hereinafter called "Licensee" and hereinafter called the 
+"Applicant". Applicant shall be 3 phase 400V or 11 kV Licensee's consumer, Licensee and the 
+Applicant are hereinafter collectively referred to as the "Parties" and individually as a "Party". 
+Recitals 
+A, Licensee is the owner of the electric distribution system serving 
+[Insert legal description of property or address] "Licensee's Distribution System" 
+B. Applicant desires to install a distributed generation (DG) facility or energy storage device using 
+(solar, wind or biogas) energy resources with a capacity equal or greater than 1 kW but no more 
+than 1 MW, including related interconnection equipment (the "DG Facility") and to interconnect 
+the DG Facility to the Licensee's distribution system. 
+C. Licensee has previously reviewed and approved Applicant's DG Interconnection Applicant Form 
+dated, and supporting materials (the "Application"). 
+D. Applicant wishes to interconnect the DG Facility to Licensee's distribution system and Licensee is 
+willing to permit such interconnection subject to the terms and conditions set forth: (1) the 
+completed Application approved by Licensee; (2) this Agreement. 
+B. No agency or partnership is created with the interconnection of the applicants DG Facility. 
+Agreement 
+NOW THEREFORE, in consideration of the foregoing Recitals and for good and valuable 
+consideration, the Licensee and Applicant agree as follows: 
+1. Design Requirement 
+The DG Facility shall be installed in compliance with National Electric Power Regulatory 
+Authority (Prosumer) Regulations, 2025. 
+2. Applicant's Representations and Warranties 
+Applicant represents and warrants that: 
+a. the DG Facility is fully and accurately described in the Application; 
+b. all information in the Application is true and correct; 
+c. the DG Facility shall be installed to Licensee's satisfaction; 
+d. applicant has been given walTanty information and an operation manual for the DG Facility; 
+and 
+e. applicant has been adequately instructed in the operation and maintenance of the DG Facility. 
+3. Interconnection Disconnect Switch 
+The Licensee may require that the Applicant furnish and install an interconnection disconnect 
+switch that opens, with a visual break, all underground poles of the interconnection circuit. The 
+interconnection disconnect switch shall be rated for the voltage and fault current requirements of 
+the DG Facility, and shall meet all applicable IEC, IEEE Standards, as well as applicable 
+reqi.iireinents of the applicable documents. The switch enclosure shall be properly grounded. The 
+intercdnnèction disconnect. switch shall be accessible at all times, located for ease of access of 
+Licensee personnel, and shall be capable of being locked in the open position. The Applicant shall 
+follow the Licensee's recommended switching, clearance, tagging, and locking procedures. 
+4, Modifications to the PG Facility 
+Applicant shall notify Licensee of plans for any material modification to the DG Facility by 
+providing at least forty working days of advance notice. "Material Modification" is defined as any 
+modification that changes the maximum electrical output of the DG Facility or changes the 
+interconnection equipment. The notification shall consist of a completed, revised Application and 
+such supporting materials as may be reasonably requested by Licensee. Applicant agrees not to 
+commence installation of any material modification to the DG Facility until Licensee has approved 
+the revised Application and the Authority shall accord fresh concurrence for the facility. 
+5. Insurance, Indemnification, Liability 
+5.1 Prosumer shall obtain and maintain appropriate insurance for third party personal injury and 
+general commercial liability. 
+5.2 Each party as indemnitor shall defend, hold harmless, and indemnify the other party and the 
+directors, officers, employees, and agents of the other party against and from any and all loss 
+liability, damage, claim, cost, charge, demand, or expense (including any direct, indirect or 
+consequential loss, liability, damage, claim, cost, charge, demand, or expense, including 
+attorneys' fees) for injury or death to persons, including employees of either party and damage 
+to property, including property of either party, arising out of or in connection with (a) the 
+\ engineering, design, construction, maintenance, repair, operation, supervision, inspection, 
+\ testing, protection or ownership of the indemnitor's facilities, or (b) the making of replacements, 
+additions, betterments to, or reconstruction of the indemnitor's facilities. This indemnity shall 
+apply notwithstanding the active or passive negligence of the indemnitee. However, neither 
+party shall be indemnified hereunder for its loss, lIability, damage, claim, cost, charge, demand, 
+or expense resulting from its sole negligence or willful misconduct. 
+5.3 The indemnitor shall, on the other party's request, defend any suit asserting a claim covered by 
+this indemnity and shall pay for all costs, including reasonable attorney fees, that may be 
+incurred by the other party in enforcing this indemnity. 
+5.4 The provisions of this section shall not be construed to relieve any insurer of its obligations to 
+pay any insurance claims in accordance with the provisions of any valid insurance policy. 
+5.5 Except as otherwise provided in this section, neither party shall be liable to the other party for 
+consequential or remote damages incurred by that party. 
+6. PG Facility commissioning Testing 
+Applicant shall notify Licensee in writing that installation of DG Facility is complete and that the 
+interconnection equipment is available for testing by Licensee at least fifteen working days before 
+Applicant interconnects the DG Facility with Licensee's Distribution System. Licensee shall 
+thereupon have the right to test the DO Facility and ensure that DG facility fulfils the safety/quality 
+standards in accordance with SOPs developed by Ministry of Energy for installation of DO Facility. 
+Licensee shall also have the right to witness any testing by Applicant of the DO Facility. Any 
+Licensee testing of the DO Facility shall be completed within ten working days. After the testing 
+which is to the satisfaction of both parties, the DO facility may be interconnected with the 
+distribution system of Licensee to be witnessed by representatives of both parties within thirty eight 
+days. . 
+7. Acces.s to PG Facility 
+Applicant shall permit icensee's employees and agents to enter the property on which the DG 
+Facility is located at any reasonable time for the purposes of inspecting and/or testing Applicant's 
+DG Facility to ensure its continued safe and satisfactory operation and the accuracy of Licensee 
+meters. Such inspections shall not relieve Applicant from its obligation to maintain the DG Facility 
+and any related equipment owned by Applicant in safe and satisfactory operating conditions. 
+Licensee shall have the right to witness any testing by Applicant of the DG Facility. 
+8. Temporary Disconnection of a DG Facility 
+Licensee may limit the operation and/or disconnect or require the disconnection of a DG facility 
+from Licensee's Distribution System at any time, with or without notice, in the event of fault. 
+Licensee may also limit the operation andlor disconnect or require the disconnection of DG facility 
+from Licensee's Distribution System upon the provision o'f30 days written notice for the conditions 
+to allow for routine maintenance, repairs or modifications to Licensee's Distribution System, 
+9, Amendments: Non-Waiver 
+Any amendment or modification to this Agreement must be in writinS and executed by Applicant 
+and 'Licenee. The failure' of Applicant or Licensee to' insist on performance by the other Party of 
+any provision of this Ageement 'shall not waive the'right of the Pirty who failed to insist on 
+performance to' enforce the same provision at a later 'time. 
+10. Teñn and Termination of Agreement' 
+The term of Agreement between Prosumer and Licensee shall be five years with effect from the 
+date of commissioning of DG facility. At the expiry of initial term, the Agreement may be renewed 
+between PrOsumer and Licensee for another term of five years and so on unless the Parties terminate 
+the Agreement. ' 
+a. Licensee may limit the operation and/or disconnect or require the disconnection of a DO 
+Facility from License&s Distribution System at any time, with or without notice, in the event 
+ER R of fault. Licensee may also limit the operation and/or disconnect or require the disconnection 
+0 of DG facility'from Licensee's Distribution System upon the provision of 30 days written notice 
+for the conditions Which including as follows: 
+- To allow for routine maintenance, repairs or modifications to Licensee's Distribution 
+System; 
+- Upon Licensee's determination that DO facility is not in compliance with the regulations; 
+- ,Upon termination of the Agreement. 
+b. This Agreement may be terminated in accordance with the Regulations. 
+C. The Prosumer may terminate the agreement upon thirty days written notice if the Prosurner 
+determines to discontinue the sale of electricity to'the Licensee. 
+d. The Licensee may terminate the Agreement upon thirty days written notice with the 'prior 
+approval of the Authority.' 
+e. All rights and obligations accrued up to termination shall continue in force upon termination. 
+11. Successors and Assigns 
+a. Assignment by Applicant: Applicant shall not assign its rights and obligations under' this 
+Agreement in whole or in part without the prior written consent of Licensee, which consent 
+shall not be uireäsonably withheld or unduly delayed. Licensee may withhold its' consent to 
+any proposed 'assignment if the proposed assignee fails to assume the obligations of Applicant 
+under this Agreement in writing. 
+b. Assignment by Licensee. The Licensee'shall have the right to assign this Agieement in whole 
+ucin written notification to the A.iplicant. ' 
+c. Successors. This Agreement shall be binding upon the personal representatives, heirs, 
+successOrs, and permitted assigns of the respecthe Parties. 
+Witness No. 1 (Name & Signature) Witness No. 1 (Name & Signature) 
+Witness No. 2 (Name & Signature) Witness No. 2 (Name & Signare 
+12. Applicant and Licensee Signature and Seal 
+IN WTTNESS WHEREOF, Applicant and Licensee have executed this Agreement as of the year and 
+date first set forth above. 
+Applicant Signature & Date Licensee's Signature with Seal & Date 
+Titl - Title 
+Address at which proposed DO facility is located 
+Latitude — Longitude (i.e. 49° 32'.06"N-9 1° 64' 18") 
+3.  Applicapi/Cppsme  
+Schedule — 1.1 
+[See Regulation 3(1)] 
+Standard Application Form for Licensee 
+Name & Address of LICENSEE 
+National Electric Power Regulatory Authority 
+(NEPRA) 
+Contact Inform iii iha tiip qJ riting sy'  
+Applicants Name First Name 
+L
+of Acant/CUll\1 in case of Company (Copy to be attached) 
+Applicant's Mailing Address 
+Applicau1s Phone Number & Email Address 
+Office Fax 
+cn 
+0 
+Email 
+Emergency Contact Numbers 
+L  
+2Lotion ol Generation  Sistem  
+5. Electricity c. truduction and Purchases: 
+(a) Anticipated annual electricity consumption of the facility or site: (kWh)/yr 
+(b)Anticipated annual electricity productjon of the generation system: (kWh)/yr 
+(c) Anticipated annual electricity purchases (i.e. (a) minus (b)) (kWh)/yr 
+Value will be negative if there are net sales to Licei.isee. 
+0 inverter El Other: 0 Three Phase  
+Name Plate  AC Ratings (check one 
+kVA Volts kW 
+0th r Comincni Spccilicatio,n a 
+Name of Firm 
+Contractor's Phone Number E-mail Address 
+Mailing Address 
+. Reçueted in-ervice Iat  
+   
+. l'i idcd onc-liliL' Sd iagrarn of the System  
+ 
+E Schematic, is Attached 
+ 
+Number of Pages 
+ 
+    
+. Geiierat'or/1pvert nna Iton 
+Manufacturer Model No.  
+Version No. Serial No. 
+Generation Type Generation Type (check one), 
+Primary Energy Source 
+Note: If there is more than one inverters, attach an additional sheet describing each. 
+.12. :\picalion ind Installer Signature - . . .. 
+To the best 'of my knowledge, all the 
+correct 
+information provided in this application 'form is completed and 
+Applicant's Signature Date 
+ 
+   
+   
+   
+   
+   
+Installer Signature (if applicable) 
+ 
+Date 
+  
+ 
+ 
+  
+Schedule III 
+[See Regulation 4(2)) 
+Application for Accord of ConcuiTence National Electric Power Regulatory Authority 
+1. Name of Applicant 
+1(a) CNIIC of Applicant/CUIN in 
+case of Company (Copy to be 
+attached) 
+1 (b) Address 
+1(c) Contact Nos 
+1 (d) Email Address 
+2. Location of proposed DG facility 
+3. Name of Licensee with which the 
+proposed DG facility is proposed to 
+be interconnected 
+4. Size of proposed DG facility 
+5. Approximate monthly energy 
+proposedto be upplied to Licensee 
+(k\) 
+6. Fee to be deposited (Non — 
+Refundable) 
+Applicant Signature 
+Date 
+Schedule-tV 
+[see Regulation 4(2)(b)] 
+An application for concurrence shall be accompanied with one-time fee of one thousand rupees per 
+kilowatt (Rs. 1000/kW) or as may be notified from time to time, paid in favour of National Electric 
+Power Regulatory Authority (NEPRA). 
+Schedule — V 
+[See Regulation 4(2)(c)1 
+Affidavit 
+(On non-judicial paper of Rs. 50/-) 
+I/we (name of the Prosumer) hereby confirm that I/we have red the National Electric Power Regulatory 
+Authority (Prosumer) Regulations, 2026 and agree to abide by its stipulations and the contents of the 
+Application are true and correct to the best of my knowledge and belief and nothing has been concealed 
+thereof. 
+Deponent 
+Oath Commissioner 
+'4' 

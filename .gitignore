@@ -1,0 +1,25 @@
+# --- scratch, not part of the deliverable -------------------------------
+
+# Full-resolution originals of the project photographs, kept so the
+# re-encode step in qa/re-encode-images.py can be reversed with --restore.
+qa/img-originals/
+
+# Verification screenshots. Regenerate with qa/shot-320.py or a headless
+# Chrome --screenshot run; not worth 1.3 MB of history.
+qa/shots/
+
+# Temporary probe files written into site/ by the headless-browser checks.
+# qa/sweep.py fails the build if any survive a run, but ignore them too.
+site/__*.html
+site/tmp*.html
+site/probe*.html
+
+# --- tooling -------------------------------------------------------------
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# --- deployment ----------------------------------------------------------
+# Vercel CLI writes these locally.
+.vercel/
